@@ -1,26 +1,26 @@
 ---
 layout: page
-title: About
-permalink: /
+title: "About Me"
+permalink: /home/
 ---
+
+<img src="/assets/profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
 
 # Wei Tu, PhD
 
-Senior Biostatistician & Data Scientist, **Canadian Cancer Trials Group (CCTG)**  
-Assistant Professor, **Department of Public Health Sciences**, Queen’s University
+I am an **Assistant Professor** in the [Department of Public Health Sciences](https://phs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/) and a **Senior Biostatistician and Data Scientist** with the [Canadian Cancer Trials Group (CCTG)](https://www.ctg.queensu.ca/).
 
-I work at the interface of **statistical learning** and **oncology clinical trials**, with interests in trial design and analysis, high-dimensional statistics, imaging and liquid-biopsy biomarkers, and privacy-preserving health data sharing. I lead and support multi-centre trials across disease sites, and supervise trainees working on imaging, ctDNA, and trial methodology.
+My work focuses on the **design and analysis of cancer clinical trials**, ranging from early-phase precision medicine platforms to large late-phase registrational trials. I have worked across diverse disease areas including **head and neck, mesothelioma, supportive care, and immuno-oncology**. Beyond trial leadership, I supervise and collaborate with trainees on projects spanning biomarkers, patient-centered outcomes, and methodological research.  
 
-📧 **Email:** wei.tu@queensu.ca  
-🏫 **Dept page:** <https://phs.queensu.ca/faculty-research/wei-tu>
+---
 
-## Research areas
-- Clinical trial design & analysis (NI/superiority, survival, QoL)
-- Machine learning & high-dimensional statistics
-- Imaging and blood-based biomarkers (radiomics, ctDNA)
-- Data harmonization & privacy-preserving data sharing
+## Education & Professional Experience
 
-## News / Highlights
-- **The Lancet (2023):** Phase III IND.227 mesothelioma trial published.  
-- **CIHR & NSERC funding:** Ongoing grants in trial methodology and biomarker-driven trials.  
-- **Trainees:** Recruiting MSc/PhD students interested in clinical trial methods and AI for oncology.
+- **Assistant Professor**, Department of Public Health Sciences, Queen’s University *(2021–present)*  
+- **Senior Biostatistician / Data Scientist**, Canadian Cancer Trials Group *(2021–present)*  
+- **PhD, Statistics**, University of Alberta *(2020)*  
+- **MSc, Statistics**, University of Alberta *(2015)*  
+- **BSc, Mathematics**, Harbin Institute of Technology *(2013)*  
+
+---
+
