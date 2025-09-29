@@ -26,9 +26,11 @@ collections:
 
 # Navigation
 nav_pages:
-  - about.md
-  - cv.md
-  - publications.md
+  - index.md
+  - _pages/research.md
+  - _pages/teaching.md
+  - _pages/team.md
+  - _pages/cv.md
 
 # Appearance
 theme: minima
