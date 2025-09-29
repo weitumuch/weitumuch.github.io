@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 ---
 
-<img src="/assets/profile.jpg" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
+<img src="/assets/profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
 
 # Wei Tu, PhD
 
@@ -40,4 +40,3 @@ My work focuses on the **design and analysis of cancer clinical trials**, rangin
 
 ---
 
-📄 [Full CV](/cv)
