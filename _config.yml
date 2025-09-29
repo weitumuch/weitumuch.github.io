@@ -4,10 +4,12 @@ email: "wei.tu@queensu.ca"
 description: "Senior Biostatistician & Assistant Professor | Clinical trials, statistical learning, biomarkers"
 url: ""  # e.g., https://weitu.github.io once live
 baseurl: ""
-
+include:
+  - _pages
+  
 # Social/usernames
-github_username: weitu
-google_scholar_id: ""   # add your ID
+github_username: 
+google_scholar_id: "3loMCisAAAAJ"   # add your ID
 orcid: ""               # add your ORCID
 twitter_username: ""
 
