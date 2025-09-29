@@ -2,18 +2,15 @@ title: "Wei Tu, PhD"
 name: "Wei Tu"
 email: "wei.tu@queensu.ca"
 description: "Senior Biostatistician & Assistant Professor | Clinical trials, statistical learning, biomarkers"
-url: ""  # e.g., https://weitu.github.io once live
+url: "https://weitumuch.github.io"
 baseurl: ""
 include:
   - _pages
-  
-# Social/usernames
-github_username: 
-google_scholar_id: "3loMCisAAAAJ"   # add your ID
-orcid: ""               # add your ORCID
-twitter_username: ""
 
-# Build settings
+# Social
+google_scholar_id: "3loMCisAAAAJ"
+
+# Build
 markdown: kramdown
 highlighter: rouge
 plugins:
@@ -26,15 +23,18 @@ collections:
     output: true
     permalink: /publications/:title/
 
-# Navigation
-nav_pages:
-  #- index.md
+# ✅ Header navigation
+header_pages:
   - _pages/about.md
   - _pages/research.md
   - _pages/teaching.md
   - _pages/team.md
-  # - _pages/cv.md
+  - _pages/cv.md
 
-# Appearance
+# Theme
 theme: minima
 permalink: pretty
+
+# Hide the "View on GitHub" header link
+github:
+  is_project_page: false
