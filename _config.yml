@@ -1,0 +1,35 @@
+title: "Wei Tu, PhD"
+name: "Wei Tu"
+email: "wei.tu@queensu.ca"
+description: "Senior Biostatistician & Assistant Professor | Clinical trials, statistical learning, biomarkers"
+url: ""  # e.g., https://weitu.github.io once live
+baseurl: ""
+
+# Social/usernames
+github_username: weitu
+google_scholar_id: ""   # add your ID
+orcid: ""               # add your ORCID
+twitter_username: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:title/
+
+# Navigation
+nav_pages:
+  - about.md
+  - cv.md
+  - publications.md
+
+# Appearance
+theme: minima
+permalink: pretty
