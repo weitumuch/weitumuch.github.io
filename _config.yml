@@ -28,11 +28,12 @@ collections:
 
 # Navigation
 nav_pages:
-  - index.md
+  #- index.md
+  - _pages/about.md
   - _pages/research.md
   - _pages/teaching.md
   - _pages/team.md
-  - _pages/cv.md
+  # - _pages/cv.md
 
 # Appearance
 theme: minima
