@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: /home/
+permalink: /
 ---
 
 <img src="/assets/profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
