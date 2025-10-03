@@ -23,4 +23,5 @@ My group develops and applies statistical methods to improve the **design, analy
 
 
 ## Google Scholar
-Find the most up-to-date publication list on **[Google Scholar]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scholar.google.com/citations%3Fuser%3D3loMCisAAAAJ%26hl%3Den&ved=2ahUKEwiXuKzhpf6PAxVcvokEHQc9Ax8QFnoECAoQAQ&usg=AOvVaw30Qaixgh50-njnZXx66Njk](https://scholar.google.com/citations?user=3loMCisAAAAJ&hl=en))**.
+## Google Scholar
+Find the most up-to-date publication list on **[Google Scholar](https://scholar.google.com/citations?user=3loMCisAAAAJ&hl=en)**.
