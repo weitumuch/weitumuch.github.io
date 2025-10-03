@@ -19,6 +19,7 @@ permalink: /team/
 
 ## Past Trainees
 
+- **Hamid Ghaedi (PDF Genomic Data Science, 2023-2025)**
 - **Zihang Han (MSc Biostatistics, 2023–2024)**  
 - **Runfeng Xu (MSc Biostatistics, 2022–2023)**  
 - **Arlene Jiang (MSc Biostatistics, 2022–2023)**  
