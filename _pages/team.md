@@ -4,8 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-# Team
-
 ## Postdoctoral Fellows
 - **Wensha Zhang** — Biostatistics (trial methodology) 
 
