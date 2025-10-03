@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 My group develops and applies statistical methods to improve the **design, analysis, and interpretability** of cancer clinical trials, and integrates multimodal biomarkers to inform precision oncology.
 
 ## Research directions
