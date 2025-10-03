@@ -9,7 +9,9 @@ include:
 header_pages:
   - _pages/about.md
   - _pages/research.md
+  - _pages/teaching.md
   - _pages/team.md
+  
 theme: minima
 # Social
 google_scholar_id: "3loMCisAAAAJ"
