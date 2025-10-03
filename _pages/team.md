@@ -15,5 +15,13 @@ permalink: /team/
 
 ## MSc Students
 - **Nick Cruickshanks (MSc Epidemiology)** — Loss to follow-up and treatment effect estimates in phase III breast cancer trials
+-  **Dryden Chadwick (MSc Epidemiology)** — PRO-CTCAE in Head and Neck Cancer
 
-*Alumni and collaborators listed in the CV.*
+## Past Trainees
+
+- **Zihang Han (MSc Biostatistics, 2023–2024)**  
+- **Runfeng Xu (MSc Biostatistics, 2022–2023)**  
+- **Arlene Jiang (MSc Biostatistics, 2022–2023)**  
+- **Zhiwen Tan (MSc Biostatistics, 2021–2022)**  
+- **Chuhong Ding (MSc Biostatistics, 2021–2022)**  
+- **Justine Aman (MSc Epidemiology, 2020–2023)**  
