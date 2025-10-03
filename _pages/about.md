@@ -6,7 +6,7 @@ permalink: /
 
 <img src="/assets/profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
 
-# Wei Tu, PhD
+# Wei Tu 涂伟
 
 I am an **Assistant Professor** in the [Department of Public Health Sciences](https://phs.queensu.ca/) at [Queen’s University](https://www.queensu.ca/) and a **Senior Biostatistician and Data Scientist** with the [Canadian Cancer Trials Group (CCTG)](https://www.ctg.queensu.ca/).
 
