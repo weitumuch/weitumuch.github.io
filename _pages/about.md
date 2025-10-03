@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 ---
 
-<img src="/assets/profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
+<img src="/assets/Profile.png" alt="Wei Tu" width="220" style="float: right; margin: 20px;" />
 
 # Wei Tu 涂伟
 
